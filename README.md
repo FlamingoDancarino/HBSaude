@@ -1,2 +1,2 @@
 # HBSaude
-Site de Agendamentos de Consultas para Fins Academicos
+Site de Agendamento de Consultas para Fins Academicos
