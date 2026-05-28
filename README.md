@@ -1,12 +1,10 @@
 # 🏥 HBSaúde — Sistema de Agendamento de Consultas Médicas
 
-Projeto desenvolvido em parceria com o hospital **HBSaúde**.
-
 ---
 
 ## 💡 O que é o projeto?
 
-O HBSaúde é um hospital que entramos em contato para realizar um site de agendamento de consultas médicas desenvolvido para o hospital de mesmo nome. O objetivo é permitir que os pacientes agendem suas consultas de forma simples e rápida, sem precisar sair de casa ou ir pessoalmente ao hospital.
+Realizamos um site de agendamento de consultas médicas desenvolvido para o hospital HBSaúde. O objetivo é permitir que os pacientes agendem suas consultas de forma simples e rápida, sem precisar sair de casa ou ir pessoalmente ao hospital.
 
 O sistema foi desenvolvido com foco na **segurança dos dados**, garantindo que todas as informações pessoais dos usuários sejam protegidas conforme a **Lei Geral de Proteção de Dados (LGPD)**.
 
