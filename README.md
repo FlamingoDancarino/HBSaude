@@ -4,7 +4,7 @@
 
 ## 💡 O que é o projeto?
 
-Realizamos um site de agendamento de consultas médicas desenvolvido para o hospital HBSaúde. O objetivo é permitir que os pacientes agendem suas consultas de forma simples e rápida, sem precisar sair de casa ou ir pessoalmente ao hospital.
+Desenvolvemos um site de agendamento de consultas médicas para o hospital HBSaúde. O objetivo é permitir que os pacientes agendem suas consultas de forma simples e rápida, sem precisar sair de casa ou ir pessoalmente ao hospital.
 
 O sistema foi desenvolvido com foco na **segurança dos dados**, garantindo que todas as informações pessoais dos usuários sejam protegidas conforme a **Lei Geral de Proteção de Dados (LGPD)**.
 
