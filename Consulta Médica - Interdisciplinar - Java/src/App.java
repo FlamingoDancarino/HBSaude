@@ -15,7 +15,6 @@ public class App {
         // Inicializa especialidades
         Especialidades.inicializarEspecialidades();
 
-        // manda aqui um formatar data para a do brasil
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd/MM/yyyy");
         DateTimeFormatter dateTimeFormatter = DateTimeFormatter.ofPattern("dd/MM/yyyy HH:mm:ss");
 
