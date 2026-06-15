@@ -1,8 +1,8 @@
-# 🏥 HBSaúde — Sistema de Agendamento de Consultas Médicas
+#  HBSaúde — Sistema de Agendamento de Consultas Médicas
 
 ---
 
-## 💡 O que é o projeto?
+##  O que é o projeto?
 
 Desenvolvemos um site de agendamento de consultas médicas para o hospital HBSaúde. O objetivo é permitir que os pacientes agendem suas consultas de forma simples e rápida, sem precisar sair de casa ou ir pessoalmente ao hospital.
 
@@ -10,13 +10,13 @@ O sistema foi desenvolvido com foco na **segurança dos dados**, garantindo que 
 
 ---
 
-## 🎨 Identidade Visual
+##  Identidade Visual
 
 As cores e a estética do site seguem a identidade visual do próprio hospital, garantindo que a experiência online seja consistente com a instituição.
 
 ---
 
-## 👥 Equipe — The midnight boys
+##  Equipe — The midnight boys
 
 - Arthur Gabriel de Mendonça *(Líder)*
 - Leonardo Francisco Gaitan Juliano
@@ -26,7 +26,7 @@ As cores e a estética do site seguem a identidade visual do próprio hospital, 
 
 ---
 
-## 🏫 Informações Acadêmicas
+##  Informações Acadêmicas
 
 **Curso:** Informática para Negócios — 3° Semestre  
 **Instituição:** FATEC  
